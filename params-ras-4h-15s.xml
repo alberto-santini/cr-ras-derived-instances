@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<configuration>
+  <general>
+    <solvingTimeLimit>20</solvingTimeLimit>
+    <timeWindowSize>960</timeWindowSize>
+    <nodeValidityTime>4000</nodeValidityTime>
+    <timeUnit>15</timeUnit>
+    <iterations>100</iterations>
+  </general>
+  <objFunction>
+    <objTrainDelayWeight>1</objTrainDelayWeight>
+    <objConnectionFailureWeight>1</objConnectionFailureWeight>
+    <objNodeCapacityWeight>1</objNodeCapacityWeight>
+    <objDetourWeight>1</objDetourWeight>
+  </objFunction>
+  <sparsification>
+    <type>threshold</type>
+    <stepSize>5</stepSize>
+    <threshold>5</threshold>
+  </sparsification>
+</configuration>

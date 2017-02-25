@@ -1,0 +1,713 @@
+<?xml version='1.0' standalone='yes'?>
+<network>
+  <node id="901">
+    <capacity>999</capacity>
+    <maxCapacity>999</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="902">
+    <capacity>999</capacity>
+    <maxCapacity>999</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="1">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="4">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="5">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="6">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="7">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="8">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="9">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="10">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="11">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="14">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="15">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="16">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="17">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="18">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="19">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="20">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="21">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="22">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="23">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="26">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="27">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="28">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="29">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="30">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="31">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="32">
+    <capacity>3</capacity>
+    <maxCapacity>3</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="35">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="36">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="37">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="38">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="39">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="40">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="41">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="70">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="42">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="43">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="44">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="45">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="46">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="47">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="48">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <node id="49">
+    <capacity>2</capacity>
+    <maxCapacity>2</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>true</overtake>
+  </node>
+  <node id="52">
+    <capacity>1</capacity>
+    <maxCapacity>1</maxCapacity>
+    <capacityViolationPenalty>0</capacityViolationPenalty>
+    <overtake>false</overtake>
+  </node>
+  <arc id="arc-901-1">
+    <source>901</source>
+    <target>1</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-902-52">
+    <source>902</source>
+    <target>52</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-1-4">
+    <source>1</source>
+    <target>4</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-1-901">
+    <source>1</source>
+    <target>901</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-4-1">
+    <source>4</source>
+    <target>1</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-4-5">
+    <source>4</source>
+    <target>5</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-5-4">
+    <source>5</source>
+    <target>4</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-5-6">
+    <source>5</source>
+    <target>6</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-6-5">
+    <source>6</source>
+    <target>5</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-6-7">
+    <source>6</source>
+    <target>7</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-7-6">
+    <source>7</source>
+    <target>6</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-7-8">
+    <source>7</source>
+    <target>8</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-8-7">
+    <source>8</source>
+    <target>7</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-8-9">
+    <source>8</source>
+    <target>9</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-9-8">
+    <source>9</source>
+    <target>8</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-9-10">
+    <source>9</source>
+    <target>10</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-10-9">
+    <source>10</source>
+    <target>9</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-10-11">
+    <source>10</source>
+    <target>11</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-11-10">
+    <source>11</source>
+    <target>10</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-11-14">
+    <source>11</source>
+    <target>14</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-14-11">
+    <source>14</source>
+    <target>11</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-14-15">
+    <source>14</source>
+    <target>15</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-15-14">
+    <source>15</source>
+    <target>14</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-15-16">
+    <source>15</source>
+    <target>16</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-16-15">
+    <source>16</source>
+    <target>15</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-16-17">
+    <source>16</source>
+    <target>17</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-17-16">
+    <source>17</source>
+    <target>16</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-17-18">
+    <source>17</source>
+    <target>18</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-18-17">
+    <source>18</source>
+    <target>17</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-18-19">
+    <source>18</source>
+    <target>19</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-19-18">
+    <source>19</source>
+    <target>18</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-19-20">
+    <source>19</source>
+    <target>20</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-20-19">
+    <source>20</source>
+    <target>19</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-20-21">
+    <source>20</source>
+    <target>21</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-21-20">
+    <source>21</source>
+    <target>20</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-21-22">
+    <source>21</source>
+    <target>22</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-22-21">
+    <source>22</source>
+    <target>21</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-22-23">
+    <source>22</source>
+    <target>23</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-23-22">
+    <source>23</source>
+    <target>22</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-23-26">
+    <source>23</source>
+    <target>26</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-26-23">
+    <source>26</source>
+    <target>23</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-26-27">
+    <source>26</source>
+    <target>27</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-27-26">
+    <source>27</source>
+    <target>26</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-27-28">
+    <source>27</source>
+    <target>28</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-28-27">
+    <source>28</source>
+    <target>27</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-28-29">
+    <source>28</source>
+    <target>29</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-29-28">
+    <source>29</source>
+    <target>28</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-29-30">
+    <source>29</source>
+    <target>30</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-30-29">
+    <source>30</source>
+    <target>29</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-30-31">
+    <source>30</source>
+    <target>31</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-31-30">
+    <source>31</source>
+    <target>30</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-31-32">
+    <source>31</source>
+    <target>32</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-32-31">
+    <source>32</source>
+    <target>31</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-32-35">
+    <source>32</source>
+    <target>35</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-35-32">
+    <source>35</source>
+    <target>32</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-35-36">
+    <source>35</source>
+    <target>36</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-36-35">
+    <source>36</source>
+    <target>35</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-36-37">
+    <source>36</source>
+    <target>37</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-37-36">
+    <source>37</source>
+    <target>36</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-37-38">
+    <source>37</source>
+    <target>38</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-38-37">
+    <source>38</source>
+    <target>37</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-38-39">
+    <source>38</source>
+    <target>39</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-39-38">
+    <source>39</source>
+    <target>38</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-39-40">
+    <source>39</source>
+    <target>40</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-40-39">
+    <source>40</source>
+    <target>39</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-40-41">
+    <source>40</source>
+    <target>41</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-41-40">
+    <source>41</source>
+    <target>40</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-41-70">
+    <source>41</source>
+    <target>70</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-70-41">
+    <source>70</source>
+    <target>41</target>
+    <capacity>2</capacity>
+  </arc>
+  <arc id="arc-70-42">
+    <source>70</source>
+    <target>42</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-42-43">
+    <source>42</source>
+    <target>43</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-42-70">
+    <source>42</source>
+    <target>70</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-43-42">
+    <source>43</source>
+    <target>42</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-43-44">
+    <source>43</source>
+    <target>44</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-44-43">
+    <source>44</source>
+    <target>43</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-44-45">
+    <source>44</source>
+    <target>45</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-45-46">
+    <source>45</source>
+    <target>46</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-45-44">
+    <source>45</source>
+    <target>44</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-46-45">
+    <source>46</source>
+    <target>45</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-46-47">
+    <source>46</source>
+    <target>47</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-47-46">
+    <source>47</source>
+    <target>46</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-47-48">
+    <source>47</source>
+    <target>48</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-48-47">
+    <source>48</source>
+    <target>47</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-48-49">
+    <source>48</source>
+    <target>49</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-49-48">
+    <source>49</source>
+    <target>48</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-49-52">
+    <source>49</source>
+    <target>52</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-52-49">
+    <source>52</source>
+    <target>49</target>
+    <capacity>1</capacity>
+  </arc>
+  <arc id="arc-52-902">
+    <source>52</source>
+    <target>902</target>
+    <capacity>1</capacity>
+  </arc>
+</network>
