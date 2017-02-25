@@ -1,5 +1,7 @@
 # Train Conflict Resolution Instances
 
+[![DOI](https://zenodo.org/badge/83153574.svg)](https://zenodo.org/badge/latestdoi/83153574)
+
 These are instances for a Conflict Resloution (CR) algorithm, derived from the 2012 RAS Competition data.
 
 The instances have been used in the paper "A Real-Time Conflict Solution Algorithm for the Train Rescheduling Problem" by Bettinelli, A. and Santini, A. and Vigo, D.
