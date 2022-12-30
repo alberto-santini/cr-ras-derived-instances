@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Santini"
+  given-names: "Alberto"
+  orcid: "https://orcid.org/0000-0002-0440-0357"
+title: "Instances for a Conflict Resloution algorithm, derived from the 2012 RAS Competition data"
+version: 1.0
+doi: 10.5281/zenodo.322571 
+date-released: 2017-02-25
+url: "https://github.com/alberto-santini/cr-ras-derived-instances"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Bettinelli"
+    given-names: "Andrea"
+  - family-names: "Santini"
+    given-names: "Alberto"
+    orcid: "https://orcid.org/0000-0002-0440-0357"
+  - family-names: "Vigo
+    given-names: "Daniele"
+  doi: 10.1016/j.trb.2017.10.005
+  journal: "Transportation Research Part B: Methodological"
+  title: "A real-time conflict solution algorithm for the Train Rescheduling Problem"
+  year: 2017
+  volume: 106
+  start: 237
+  end: 265
